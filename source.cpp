@@ -5,8 +5,6 @@
 
 using namespace std;
 
-//My ID : 248039
-
 int main()
 {
 	
